@@ -10,7 +10,7 @@ __Id__ : 2023ucp1795
 I'm a _Coding enthusiast_ ... .. .. .. *blah blah blah* .... .  .. . .. ... .. 
 
 ## Education
-| Malaviya National Institute of Technology Jaipur, Jaipur Rajasthan | Aug 2023 - May 2027 |
+| Malaviya National Institute of Technology Jaipur | Aug 2023 - May 2027 |
 | ---------- | ------------------ |
 | B.Tech. CSE | C.G. - 10.0 |
 
