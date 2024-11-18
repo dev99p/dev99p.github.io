@@ -10,10 +10,10 @@ __Id__ : 2023ucp1795
 I'm a _Coding enthusiast_ ... .. .. .. *blah blah blah* .... .  .. . .. ... .. 
 
 ## Education
-| Degree | Institution | Graduation Year | CGPA |
-| ------ | ----------- | --------------- | ---- |
-| B.Tech. | MNIT Jaipur | May 2027 | 10.0 |
-| M.Tech. | HeHe Academy | May 2029 | 10.0 |
+| Degree  | Institution  | Graduation Year | CGPA |
+| ------  | -----------  | --------------- | ---- |
+| B.Tech. | MNIT Jaipur  | May 2027        | 10.0 |
+| M.Tech. | HeHe Academy | May 2029        | 10.0 |
 
 ## Interests
 I have interest in the following fields:
